@@ -1,0 +1,8 @@
+/.metadata/
+/Servers/
+/bin/
+/target/
+*.log
+.settings/
+.classpath
+.project
